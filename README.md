@@ -20,8 +20,8 @@ I am very interested in building systems that will impact people's everyday.
 This is why I for instance have volunteered to work with Gryttr, a webapp for discovering climbing outside.
 (I love to climb/boulder by the way).
 
-I am also interested in the consulting business!
+I am also interested in the consulting business and would like to work as a consultant one day!
 
 #### What do I do now? 🎥
 
-Currently it is my final master's year. Hit me if you are interested in a [A Tool for In-Video Feedback](https://lci.idi.ntnu.no/wp-content/uploads/2020/02/MasterThesis_InVideoFeedback.pdf).
+Currently, I am working with my thesis. Hit me if you are interested in [A Tool for In-Video Feedback](https://lci.idi.ntnu.no/wp-content/uploads/2020/02/MasterThesis_InVideoFeedback.pdf).
